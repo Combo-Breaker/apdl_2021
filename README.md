@@ -1,15 +1,13 @@
 # apdl_2021
 NLP course 
 
+[Lectures slides](https://drive.google.com/drive/folders/1P5im0gWdqrUYCwQKIFXGu6gCU7H5ILhW?usp=sharing)
 
 **week 1**
 - text preprocessing
 - simple text models
 - word embeddings
 - text classification
-
-Lecture slides
-
 
 **week 2**
 - topic modeling
