@@ -14,13 +14,14 @@ NLP course
 - topic modeling
 - language models
 - RNN
-
+- Sequence labeling, NER
 - machine translation and seq2seq models
-- attention mechanism
-- Transformer
+
 
 **week 3**
+- attention mechanism
+- Transformer
 - huggingface models
 - transfer learning
 - syntax (?)
-- complex problems: NER, QA, summarization
+- complex problems: QA, summarization
