@@ -7,12 +7,14 @@ NLP course
 - text preprocessing
 - simple text models
 - word embeddings
-- text classification
+
 
 **week 2**
+- text classification
 - topic modeling
 - language models
 - RNN
+
 - machine translation and seq2seq models
 - attention mechanism
 - Transformer
