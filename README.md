@@ -14,7 +14,7 @@ NLP course
 - topic modeling
 - language models
 - RNN
-- Sequence labeling, NER
+- sequence labeling, NER
 - machine translation and seq2seq models
 
 
