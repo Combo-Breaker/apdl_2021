@@ -15,13 +15,12 @@ NLP course
 - language models
 - RNN
 - sequence labeling, NER
-- machine translation and seq2seq models
 
 
 **week 3**
+- machine translation and seq2seq models
 - attention mechanism
 - Transformer
 - huggingface models
 - transfer learning
-- syntax (?)
 - complex problems: QA, summarization
