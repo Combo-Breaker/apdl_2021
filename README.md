@@ -24,3 +24,14 @@ NLP course
 - huggingface models
 - transfer learning
 - complex problems: QA, summarization
+
+**Homework**
+
+Kaggle competition: https://www.kaggle.com/c/toxic-comments-classification-apdl-2021
+
+Evaluation formula:
+
+- baseline_mark_i: if your achieved score >= baseline_i (i = 4,5,6)
+- leaderboard_mark: 6 + ( 2 * (N - pos + 1) / N) if your score >= baseline_6
+
+your final mark = max(baseline_mark_i, leaderboard_mark)
