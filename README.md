@@ -27,7 +27,7 @@ NLP course
 
 **Homework**
 
-Kaggle competition: https://www.kaggle.com/c/toxic-comments-classification-apdl-2021
+Kaggle competition: https://www.kaggle.com/t/8bcd968704344c24b8f4fa913da2478f
 
 Evaluation formula:
 
