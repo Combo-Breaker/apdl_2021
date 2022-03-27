@@ -25,7 +25,9 @@ NLP course
 **Homework**
 
 Kaggle competition: https://www.kaggle.com/competitions/toxic-comments-classification-apdl-2022
+
 Notebook with baseline code: https://www.kaggle.com/code/combobreaker/sample-and-baselines-submission
+
 
 Evaluation formula:
 
