@@ -1,4 +1,4 @@
-# apdl_2021
+# apdl_2022
 NLP course 
 
 [Lectures slides](https://drive.google.com/drive/folders/1P5im0gWdqrUYCwQKIFXGu6gCU7H5ILhW?usp=sharing)
@@ -6,15 +6,13 @@ NLP course
 **week 1**
 - text preprocessing
 - simple text models
-- word embeddings
+- text classification
 
 
 **week 2**
+- word embeddings
 - text classification
-- topic modeling
 - language models
-- RNN
-- sequence labeling, NER
 
 
 **week 3**
@@ -23,11 +21,10 @@ NLP course
 - Transformer
 - huggingface models
 - transfer learning
-- complex problems: QA, summarization
 
 **Homework**
 
-Kaggle competition: https://www.kaggle.com/t/8bcd968704344c24b8f4fa913da2478f
+Kaggle competition: https://www.kaggle.com/competitions/toxic-comments-classification-apdl-2022
 
 Evaluation formula:
 
