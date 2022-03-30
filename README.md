@@ -26,6 +26,8 @@ NLP course
 
 Kaggle competition: https://www.kaggle.com/competitions/toxic-comments-classification-apdl-2022
 
+Google form to submit your solution: https://forms.gle/M1mQKeEgHKyTR9cw6
+
 Notebook with baseline code: https://www.kaggle.com/code/combobreaker/sample-and-baselines-submission
 
 
